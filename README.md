@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Ayush
 
-<!--
-**ayushkanhakhetan-lgtm/ayushkanhakhetan-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 CSE Student | Aspiring Software Engineer  
+🚀 Passionate about DSA, React, and Problem Solving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 Skills
+- Data Structures & Algorithms (Linked List, Trees, Hashing)
+- React.js (Hooks, State Management)
+- JavaScript, C++
+
+---
+
+## 🚀 Projects
+### 💸 Expense Splitter (Splitwise Lite)
+React-based expense tracking app with real-time balance calculation and settlement logic.
+
+---
+
+## 📚 Currently Learning
+- Advanced DSA
+- System Design Basics
+- React optimization
+
+---
+
+## 🎯 Goal
+To secure a Software Engineering Internship and build real-world scalable applications.
+
+---
+
+⭐ Always learning, always building.
