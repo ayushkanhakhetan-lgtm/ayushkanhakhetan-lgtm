@@ -1,18 +1,18 @@
- Hi, I'm Ayush
+# Hi, I'm Ayush
 
 💻 CSE Student | Aspiring Software Engineer  
 🚀 Passionate about DSA, React, and Problem Solving  
 
 ---
 
- Skills
+# Skills
 - Data Structures & Algorithms (Linked List, Trees, Hashing)
 - React.js (Hooks, State Management)
 - JavaScript, C++
 
 ---
 
- Projects
+# Projects
 ### 💸 Expense Splitter (Splitwise Lite)
 React-based expense tracking app with real-time balance calculation and settlement logic.
 
