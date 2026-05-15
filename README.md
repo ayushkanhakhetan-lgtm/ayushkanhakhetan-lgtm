@@ -1,37 +1,111 @@
-# Hi, I'm Ayush
+# Hi, I'm Ayush 👋
 
-💻 CSE Student | Aspiring Software Engineer  
-🚀 Passionate about DSA, React, and Problem Solving  
-
----
-
-# Skills
-- Data Structures & Algorithms (Linked List, Trees, Hashing)
-- React.js (Hooks, State Management)
-- JavaScript, C++
+💻 CSE Undergraduate Student (2023–2027 Batch)  
+🎓 GATE 2026 Qualified  
+🚀 Passionate about Software Development, DSA, React, AI/ML, and Problem Solving
 
 ---
 
-# Projects
-### 💸 Expense Splitter (Splitwise Lite)
-React-based expense tracking app with real-time balance calculation and settlement logic.
+# 🛠️ Tech Stack
 
-### 🤖 AI Personal Finance Tracker
-Python-based personal finance tracker that takes user expense input, analyzes spending using Pandas, generates graphs using Matplotlib, and predicts next-month spending using Linear Regression.
+## Languages
+- C++
+- JavaScript
+- Python
 
-**Tech Stack:** Python, Pandas, Matplotlib, Scikit-learn, CSV
+## Frontend Development
+- React.js
+- HTML
+- CSS
+- Vite
+
+## AIML & Data Analysis
+- Pandas
+- Matplotlib
+- Scikit-learn
+
+## Core CS Concepts
+- Data Structures & Algorithms
+- OOPs
+- Problem Solving
 
 ---
 
- Currently Learning
-- Advanced DSA
+# 📌 Featured Projects
+
+## 💸 Expense Splitter (Splitwise Lite)
+
+React-based expense splitting application inspired by Splitwise.  
+Helps users manage shared expenses, track balances, and calculate settlements between friends or groups.
+
+### Features
+- Add shared expenses
+- Split expenses between users
+- Real-time balance calculation
+- Settlement tracking
+- Responsive UI
+
+### Tech Stack
+React.js • JavaScript • Vite • CSS
+
+🔗 Live Demo:  
+https://expense-splitter-three-lovat.vercel.app/
+
+🔗 Repository:  
+https://github.com/ayushkhetan-dev/Expense-Splitter
+
+---
+
+## 🤖 AI Personal Finance Tracker
+
+Python-based personal finance tracker that takes user expense input, analyzes spending patterns, generates graphs, gives budget warnings, and predicts future spending using Linear Regression.
+
+### Features
+- Expense tracking
+- Spending analysis
+- Graph generation
+- Budget warning system
+- Spending prediction using ML
+
+### Tech Stack
+Python • Pandas • Matplotlib • Scikit-learn • CSV
+
+🔗 Repository:  
+https://github.com/ayushkhetan-dev/AI-Personal-Finance-Tracker
+
+---
+
+# 📚 Currently Learning
+
+- Advanced Data Structures & Algorithms
 - System Design Basics
-- React optimization
+- React Optimization
+- Backend Development
+- Machine Learning Fundamentals
 
 ---
 
-## 🎯 Goal
-To secure a Software Engineering Internship and build real-world scalable applications.
+# 🎯 Goals
+
+- Secure a Software Engineering Internship
+- Build scalable real-world applications
+- Improve problem-solving and development skills
+- Contribute consistently to GitHub and open-source projects
+
+---
+
+# 📈 DSA Journey
+
+Currently solving DSA problems daily and building consistency in:
+- Arrays
+- Strings
+- Linked Lists
+- Trees
+- Graphs
+- Dynamic Programming
+
+Upcoming Repository:  
+🔗 DSA-Journey
 
 ---
 
